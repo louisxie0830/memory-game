@@ -1,5 +1,6 @@
 <template>
-  <section class="memory-game">
+  <section id="app"
+           class="memory-game">
     <div class="memory-card"
          data-framework="aurelia">
       <img class="front-face"
